@@ -25,7 +25,7 @@ I am a MERN stack developer with a passion for front-end development. I speciali
 
 <h3 align="left">Community Food Sharing</h3>
 <h4 align="left">Live Links</h4>
-<a href="https://courageous-monstera-8f7298.netlify.app" target="blank">
+https://courageous-monstera-8f7298.netlify.app
 
 
 
