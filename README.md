@@ -1,3 +1,4 @@
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazin222)  
 ### Hi there 👋, My name is Mahadi islam sazin
 #### I am MERN stack developer
 ![I am MERN stack developer](https://i.ibb.co/dPFRYw4/Black-and-Blue-Bold-Business-Promo-Linked-In-Article-Cover-Image.png)
@@ -6,7 +7,7 @@ I am a MERN stack developer with a passion for front-end development. I speciali
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazin222)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazin222)](https://github.com/anuraghazra/github-readme-stats)
 
