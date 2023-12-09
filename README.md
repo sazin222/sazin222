@@ -22,10 +22,5 @@ I am a MERN stack developer with a passion for front-end development. I speciali
 
 
 
-## Pinned Repositories
-
-
-
-
 
 
