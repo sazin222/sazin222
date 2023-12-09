@@ -27,12 +27,12 @@ I am a MERN stack developer with a passion for front-end development. I speciali
 <h4 align="left">Live Links</h4>
 https://courageous-monstera-8f7298.netlify.app
 
-<h4 align="left">Features of the project:</h4>
-<h6 align="left">There is SingUp and Singin options for users</h6>
-<h6 align="left">Google Authentication</h6>
-<h6 align="left">Food Adding system user can add the food</h6>
-<h6 align="left">User can manage their added food by delete, update</h6>
-<h6 align="left">Any one can Request for the Food</h6>
+<p align="left">.Features of the project:</p>
+<p align="left">.There is SingUp and Singin options for users</p>
+<p align="left">.Google Authentication</p>
+<p align="left">.Food Adding system user can add the food</p>
+<p align="left">.User can manage their added food by delete, update</p>
+<p align="left">.Any one can Request for the Food</p>
 
 
 
