@@ -27,6 +27,12 @@ I am a MERN stack developer with a passion for front-end development. I speciali
 <h4 align="left">Live Links</h4>
 https://courageous-monstera-8f7298.netlify.app
 
+<h4 align="left">Features of the project:</h4>
+
+
+
+
+
 
 
 
