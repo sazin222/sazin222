@@ -1,7 +1,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazin222)  
 ### Hi there 👋, My name is Mahadi islam sazin
 #### I am MERN stack developer
-![I am MERN stack developer](https://i.ibb.co/dPFRYw4/Black-and-Blue-Bold-Business-Promo-Linked-In-Article-Cover-Image.png)
+![I am MERN stack developer]([https://i.ibb.co/dPFRYw4/Black-and-Blue-Bold-Business-Promo-Linked-In-Article-Cover-Image.png](https://i.ibb.co/vZ4Y4pV/Black-and-Blue-Bold-Business-Promo-Linked-In-Article-Cover-Image-1.png))
 
 I am a MERN stack developer with a passion for front-end development. I specialize in crafting engaging and user-friendly interfaces using React, and I'm always eager to bring ideas to life through code. Let's build captivating digital experiences together!
 
