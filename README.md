@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, My name is Mahadi islam sazin
+#### I am MERN stack developer
+![I am MERN stack developer](https://i.ibb.co/dPFRYw4/Black-and-Blue-Bold-Business-Promo-Linked-In-Article-Cover-Image.png)
+
+I am a MERN stack developer with a passion for front-end development. I specialize in crafting engaging and user-friendly interfaces using React, and I'm always eager to bring ideas to life through code. Let's build captivating digital experiences together!
 
 
-**sazin222/sazin222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazin222)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazin222)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sazin222&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sazin222)  
+
+
 
