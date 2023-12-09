@@ -47,6 +47,7 @@ https://venerable-dango-2cd0e0.netlify.app
 <p align="left">4. A login user can resquest to be teacher</p>
 <p align="left">5. There are three dashboard for the three specific user</p>
 <p align="left">6. Admin can manage the all user</p>
+<p align="left">6. There is payment system a student can payment for the enroll</p>
 
 
 
