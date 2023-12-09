@@ -50,6 +50,20 @@ https://venerable-dango-2cd0e0.netlify.app
 
 
 
+<h3 align="left">Brand Shop</h3>
+<h4 align="left">Live Links</h4>
+https://automotive-brand-5e839.web.app/
+
+<p  align="left">Features of the project:</p>
+<p align="left">1. There is SingUp and Singin options for users</p>
+<p align="left">2. Google Authentication</p>
+<p align="left">3. User can see Details of the brand car</p>
+<p align="left">4. There is ligth and dark mode option for the website</p>
+<p align="left">5. user can manage the her added brand</p>
+<p align="left">6. user can add the favorite barnd and it will be save as a favorite item</p>
+
+
+
 
 
 
