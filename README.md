@@ -36,6 +36,17 @@ https://courageous-monstera-8f7298.netlify.app
 
 
 
+<h3 align="left">Student Class Management</h3>
+<h4 align="left">Live Links</h4>
+https://venerable-dango-2cd0e0.netlify.app
+
+<p  align="left">Features of the project:</p>
+<p align="left">1. There is SingUp and Singin options for users</p>
+<p align="left">2. Google Authentication</p>
+<p align="left">3. There are three kinds of User Role</p>
+<p align="left">4. A login user can resquest to be teacher</p>
+<p align="left">5. There are three dashboard for the three specific user</p>
+<p align="left">6. Admin can manage the all user</p>
 
 
 
